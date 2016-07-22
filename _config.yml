@@ -1,0 +1,28 @@
+name: Arroyo Dental
+favicon: null
+layout_spectrum: 0.27600622549653053
+typography_spectrum: 0.4242942149285227
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9505012794397771
+  lightness: 0.6405201263260096
+  saturation: 0.8044288884848356
+  rhythmicContrast: 0.014877218520268798
+purpose: []
